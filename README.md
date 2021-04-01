@@ -1,4 +1,4 @@
 # ProjectEuler Solutions
 Solutions to Project Euler problems\
-Languages:\
+Languages:
 - Python
