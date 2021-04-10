@@ -1,2 +1,4 @@
-# projecteuler
-My Project Euler solutions (Python)
+# ProjectEuler Solutions
+Solutions to Project Euler problems\
+Languages:
+- Python
